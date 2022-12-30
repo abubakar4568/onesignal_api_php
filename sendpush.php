@@ -2,9 +2,9 @@
 	include('classes.php');
 	
 	//Your OneSingal APP ID
-	define("APP_ID", "YOUR_APP_ID_HERE");
+	define("APP_ID", "6380832b-b5bc-4c90-9514-521f57f29c28");
 	//Your Onesignal API KEY
-	define("API_KEY", "YOUR_API_KEY_HERE");
+	define("API_KEY", "N2U5ZWU0N2UtNWRkNC00OTFlLTg3ZmUtZDk0YTZlMTI5YzA1");
 	
 	$get_heading = null;
 	$get_contents = null;
